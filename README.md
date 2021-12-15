@@ -1,2 +1,1 @@
-# demoLorenaK2
-segunda entrega
+# Atividade1Bim-Frameworks
